@@ -1,7 +1,7 @@
 <div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=400&section=header&text=BackEnd_BanseokSuh&fontSize=70)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basilry&show_icons=true&count_private=true&hide=issues,contribs&theme=tokyonight)](https://github.com/basilry/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=banseok&show_icons=true&count_private=true&hide=issues,contribs&theme=tokyonight)](https://github.com/BanseokSuh/)
 
 <br>
 
@@ -15,11 +15,11 @@
   <br>
   최근 7월 말에는 코드스테이츠 소프트웨어 엔지니어링 20주 부트캠프 과정을 수료하였습니다. -->
 <!--   <br> -->
-  백엔드 개발자 김바실리입니다! 😁
+  백엔드 개발자 서반석입니다! 😁
   
 <br>
 
-# 🔧 Skill Stacks
+<!-- # 🔧 Skill Stacks -->
 
 <!-- ## 👌 실무에서 바로 적용가능해요!
 <a href="https://ko.javascript.info/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
